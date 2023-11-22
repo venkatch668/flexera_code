@@ -1,0 +1,8 @@
+.cardItem .MuiPaper-root{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+.cardItem img{
+    width:100px;
+}

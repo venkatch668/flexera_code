@@ -1,0 +1,17 @@
+  .App{
+    max-width: 40%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px auto;
+  }
+  .App .app-item{
+    position: relative;
+  }
+  .App .spinner{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+  }
+  .App .spinner .MuiCircularProgress-root{
+    margin: 0 auto;
+  }
